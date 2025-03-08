@@ -66,7 +66,7 @@ education:
   - area: M アジア言語文化
     institution: 神戸市外国語大学
     date_start: 2020-04-01
-    date_end: 202-03-31
+    date_end: 2022-03-31
     summary: |
       GPA: 3.8/4.0
 
