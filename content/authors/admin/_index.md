@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 王星月
+title: 王 星月
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: WANG Xingyue
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: WANG
+last_name: Xingyue
 
 # Status emoji
 status:
