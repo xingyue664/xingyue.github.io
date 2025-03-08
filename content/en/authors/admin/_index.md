@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 大学院生
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 神戸市外国語大学
+  - name: Kobe City University of Foreign Studies
     url: https://www.kobe-cufs.ac.jp/
 
 # Social network links
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - 記述言語学
-  - ロロ諸語
-  - 言語類型論
-  - 民族と文化
+  - Descriptive linguistic
+  - Loloish language
+  - Topology
+  - Ethnic minority and culture
   - Lalo language
 
 education:
-  - area: PhD 言語学
-    institution: 神戸市外国語大学
+  - area: PhD linguistic
+    institution: Kobe City University of Foreign Studies
     date_start: 2022-04-01
     date_end: 
     summary: |
@@ -63,8 +63,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M アジア言語文化
-    institution: 神戸市外国語大学
+  - area: M Japanese and Asian Languages and Cultures
+    institution: Kobe City University of Foreign Studies
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
@@ -74,10 +74,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA Shandong Jiaotong university
+    institution: business Japanese
+    date_start: 2014-10-01
+    date_end: 2018-06-31
     summary: |
       GPA: 3.4/4.0
       
@@ -144,29 +144,29 @@ skills:
         icon: camera
 
 languages:
-  - name: 中国語
-    percent: 100
-  - name: 日本語
-    percent: 75
-  - name: 英語
-    percent: 75
+  - name: Chinese
+    percent: 
+  - name: Japanese
+    percent: 
+  - name: English
+    percent: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Senshu International Student Scholarship Foundation
+    url: https://www.disclo-koeki.org/07a/00932/
+    date: '2021-04-01'
+    awarder: Person in charge
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters s z zin a neural network’s architecture; and apply deep learning to your own applications.
+  - title: Master's Degree Conferral Ceremony Representatives
+    url: https://www.youtube.com/live/XNmZB5lXssI?si=XhvbrYzfYa2J8b4a
+    date: '2022-03-25'
+    awarder: headmaster
     icon: edx
     summary: |
       Learned:
