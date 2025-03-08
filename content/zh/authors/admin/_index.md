@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 大学院生
+role: 博士研究生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 神戸市外国語大学
+  - name: 神户市外国语大学
     url: https://www.kobe-cufs.ac.jp/
 
 # Social network links
@@ -47,15 +47,15 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - 記述言語学
-  - ロロ諸語
-  - 言語類型論
-  - 民族と文化
-  - Lalo language
+  - 描写语言学
+  - 彝语支方言
+  - 语言类型学
+  - 民族与文化
+  - 腊罗方言
 
 education:
-  - area: PhD 言語学
-    institution: 神戸市外国語大学
+  - area: PhD 语言学
+    institution: 神户市外国语大学
     date_start: 2022-04-01
     date_end: 
     summary: |
@@ -63,8 +63,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: M アジア言語文化
-    institution: 神戸市外国語大学
+  - area: M 亚洲语言文化
+    institution: 神户市外国语大学
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
@@ -74,10 +74,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA 山东交通学院
+    institution: 商务日语
+    date_start: 2014-10-01
+    date_end: 2018-06-30
     summary: |
       GPA: 3.4/4.0
       
@@ -144,29 +144,29 @@ skills:
         icon: camera
 
 languages:
-  - name: 中国語
-    percent: 100
-  - name: 日本語
-    percent: 75
-  - name: 英語
-    percent: 75
+  - name: 汉语
+    percent: 
+  - name: 日语
+    percent: 
+  - name: 英语
+    percent: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: 千趣留学生奖学财团
+    url: https://www.disclo-koeki.org/07a/00932/
+    date: '2021-04-01'
+    awarder: 公益财团
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
+  - title: 硕士学位授予式代表
+    url: https://www.youtube.com/live/XNmZB5lXssI?si=XhvbrYzfYa2J8b4a
+    date: '2022-03-25'
+    awarder: 校长
     icon: edx
     summary: |
       Learned:

@@ -77,7 +77,7 @@ education:
   - area: BA ビジネス日本語
     institution: 山東交通学院
     date_start: 2014-10-01
-    date_end: 2018-06-31
+    date_end: 2018-06-30
     summary: |
       GPA: 3.4/4.0
       
