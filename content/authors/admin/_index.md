@@ -49,24 +49,24 @@ profiles:
 interests:
   - 記述言語学
   - ロロ諸語
-  - 類型論
+  - 言語類型論
   - 民族と文化
-  - Lalo　language
+  - Lalo language
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD 言語学
+    institution: 神戸市外国語大学
+    date_start: 2022-04-01
+    date_end: 現在
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M アジア言語文化
+    institution: 神戸市外国語大学
+    date_start: 2020-04-01
+    date_end: 202-03-31
     summary: |
       GPA: 3.8/4.0
 
@@ -144,12 +144,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: 中国語
     percent: 100
-  - name: Chinese
+  - name: 日本語
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: 英語
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
