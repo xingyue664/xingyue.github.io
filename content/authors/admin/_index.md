@@ -11,7 +11,7 @@ last_name: Xingyue
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📖　☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 大学院生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 神戸市外国語大学
+    url: https://www.kobe-cufs.ac.jp/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -47,9 +47,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 記述言語学
+  - ロロ諸語
+  - 類型論
+  - 民族と文化
+  - Lalo　language
 
 education:
   - area: PhD Artificial Intelligence
