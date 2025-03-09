@@ -11,7 +11,7 @@ last_name: Xingyue
 
 # Status emoji
 status:
-  icon: 📖　☕️
+  icon: 📖　
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,7 +51,7 @@ interests:
   - ロロ諸語
   - 言語類型論
   - 民族と文化
-  - Lalo language
+  - ラロ語
 
 education:
   - area: PhD 言語学
@@ -59,10 +59,11 @@ education:
     date_start: 2022-04-01
     date_end: 
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      博士論文は「ラロ語の文法に関する記述言語学的研究」について執筆しています。現在、執筆中であり、まだ完成していません。 指導教員は林 範彦(https://researchmap.jp/read0095243).「言語記述論集」「研究科論集」「JSEALS」に論文を掲載しています。
     button:
-      text: 'Read Thesis'
+      text: 'ラロ語の文法に関する記述言語学的研究'
       url: 'https://example.com'
+      
   - area: MA アジア言語文化
     institution: 神戸市外国語大学
     date_start: 2020-04-01
@@ -74,6 +75,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - area: BA ビジネス日本語
     institution: 山東交通学院
     date_start: 2014-10-01
@@ -86,28 +88,45 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 南開大学の文学院で交換留学
+    company_name: 南開大学
     company_url: ''
+    company_logo: 'https://imgur.com/a/Eaukpam'
+    date_start: 2022-10-01
+    date_end: '2023-06-30'
+    summary: |1-
+      南開大学の文学院で１年間で交換留学を行いました.多くの少数民族言語や中国語の方言研究に携わる研究者と交流を重ねる中で、視野が広がりました。特にチベット各方言に関する理解が深まりました。
+
+  - position: 日本語講師
+    company_name: 学習谷国際教育株式会社(STUDY VALLEY EDU)
+    company_url: 'https://www.studyvalley.jp/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-10-01
+    date_end: 
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 日本語入門
+      - 本語の会話
+      
+  - position: 中国語講師
+    company_name: 名谷文化交流センター
+    company_url: 'https://www.kobe-bunka.jp/course/course/detail/49315'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 
+    summary: |1-
+      - 中国語入門
+      - 中国語中上級
+
+  - position: アシスタント
+    company_name: KEC日本語学 
+    company_url: 'https://www.jpns.kec.ne.jp/'
+    company_logo: ''
+    date_start: 2023-10-01
+    date_end: 
+    summary: |1-
+      -日本語教員養成の模擬授業において、先生たちの授業を聴講し、意見やアドバイスを述べます。
+     
+    
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
