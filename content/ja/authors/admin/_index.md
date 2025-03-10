@@ -208,4 +208,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+中国の雲南省出身で、雲南省保山市昌寧県で話されているラロ語について記述しています。記述言語学、言語類型論、ロロ諸語に関心があり、言語の研究だけでなく、民族文化にも興味を持っています。
