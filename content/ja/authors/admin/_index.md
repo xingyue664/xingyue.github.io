@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'xingyue664@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -69,24 +69,27 @@ education:
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      GPA: 3.8/4.0
+      
+      カリキュラ:
+      - アジア言語研究 １・２      - アジア言語文化特殊講義 １・２
+      - アジア言語演習 １・２      - 研究指導 １・２
+      - アジア文化研究 １・２      - 言語学特殊研究Ⅰ １・２
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - area: BA ビジネス日本語
     institution: 山東交通学院
     date_start: 2014-10-01
     date_end: 2018-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+      カリキュラム:
+      - 総合日本語      - 国際貿易日本語
+      - 日本語会話      - 日本語視聴
+      - 上級日本語      - マーケティング企画実習
+      - 日本語速読      - 通訳理論と実践
+      - ビジネス文章
+  
+  
 work:
   - position: 南開大学の文学院で交換留学
     company_name: 南開大学
@@ -164,11 +167,11 @@ skills:
 
 languages:
   - name: 中国語
-    percent: 
+    percent: 100
   - name: 日本語
-    percent: 
+    percent: 90
   - name: 英語
-    percent: 
+    percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -181,7 +184,7 @@ awards:
     awarder: 公益財団
     icon: 
     summary: |
-      2021年修士2年生から支援を承っています。
+      2021年生から支援を承っています。
 
   - title: 修士学位記授与式の代表者
     url: https://www.youtube.com/live/XNmZB5lXssI?si=XhvbrYzfYa2J8b4a
@@ -195,7 +198,7 @@ awards:
   - title: POCIB国際貿易実務総合実習
     url: https://www.pocib.com/
     date: '2017-04-24'
-    awarder: 優秀
+    awarder: POCIB 全国貿易実務能力大会 団体三等賞
     icon: 
     summary: |
       税務機関、船会社、航空会社、貿易振興委員会など、貿易に関わる関係者の業務システムを模擬しました。ビジネスチャンスの探索、取引交渉、契約の締結から契約の履行まで体験しました。
